@@ -25,7 +25,6 @@
   * [3D Case Prototype Model](#3d-case-prototype-model)
   * [Fabricated PCB](#fabricated-pcb)
 * [Microcontroller Interfacing](#microcontroller-interfacing)
-* [SmartBank Connect Application UI Flow](#smartbank-connect-application-ui-flow)
 * [References](#references)
 * [Acknowledgement](#acknowledgement)
 
@@ -114,36 +113,46 @@ Flutter is Google's open-source framework for building natively compiled apps fo
 * **Features**: USB Power Delivery (PD2.0/PD3.0), adaptive charging, I2C interface, overvoltage/short circuit protection
 
 ## SoC Pin Definition
-![Pin Diagram](#)
+![image](https://github.com/user-attachments/assets/c5c704b1-e868-4729-afde-b25251a5945b)
+
 
 ## SoC I2C Connection
-![I2C Diagram](#)
+![image](https://github.com/user-attachments/assets/c4727d75-8ad4-46b7-aa36-7729ed95a12d)
+
 
 ## SoC Application Component List
-![Component List](#)
+![image](https://github.com/user-attachments/assets/e8ee31bd-edfd-482b-87db-5710b6184c56)
+
 
 ## Reference SoC Application Circuit Diagram
-![Circuit Diagram](#)
+![image](https://github.com/user-attachments/assets/45500100-f1e8-415b-a592-5d00dc2f3581)
+
 
 ## SmartBank Charging Module
 
 ### Schematic
-![Schematic](#)
+![image](https://github.com/user-attachments/assets/f5233c1b-941e-4826-8f45-c3f75e4df6f7)
+
 
 ### PCB
 Top Layer  
-![Top Layer](#)  
+![image](https://github.com/user-attachments/assets/53b3dde5-b483-46ef-a406-07e8a80c2dd8)
+
 Bottom Layer  
-![Bottom Layer](#)
+![image](https://github.com/user-attachments/assets/5413a2ff-3103-4791-b373-d49de3f6e920)
+
 
 ### 3D PCB Model
-![3D Model](#)
+![image](https://github.com/user-attachments/assets/724b9b4f-f61b-48d6-9dfe-0e54279a2df6)
+
 
 ### 3D Case Prototype Model
-![Case Model](#)
+![image](https://github.com/user-attachments/assets/f59912bb-8427-4922-a17c-8ff21f0a17fe)
+
 
 ### Fabricated PCB
-![Fabricated PCB](#)
+![image](https://github.com/user-attachments/assets/fb367a7a-9e4e-47a9-a195-9659e4b61908)
+
 
 ## Microcontroller Interfacing
 * I2C protocol for ESP32C3 to IP5328P communication
@@ -151,22 +160,6 @@ Bottom Layer
 * Temperature sensor for battery monitoring
 * LED, buzzer, and push button for interaction and controls
 
-## SmartBank Connect Application UI Flow
-
-### Onboarding Screen
-![Onboarding](#)
-
-### Device Search and Scan
-![Device Scan](#)
-
-### Main Dashboard
-![Dashboard](#)
-
-### Settings and Notifications
-![Settings](#)
-
-### Usage History
-![Usage History](#)
 
 ## References
 * [Injoinic Technology](http://www.injoinic.com/?lang=en-us)
